@@ -1,20 +1,25 @@
-# Hydejack Starter Kit
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+使用 [Hydejack](https://hydejack.com/) 主题.
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+
+
+### 步骤
+1. 类目下的_posts创建 年-月-日-标题.md(2021-10-18-hello-world.md)
+2. 上传后2-5分钟显示
+
+
+
+### 本地预览
+
+1. `bundle install` [^1]
+2. `bundle exec jekyll serve`
+3. http://localhost:4000
+
+`jekyll clean` 清理_site
+
+所有更改在gh-pages里,否则影响网站的自动生成
+
+每个创建的目录下readme.md为首页
 
 [^1]: Requires Bundler. Install with `gem install bundler`.
-
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
