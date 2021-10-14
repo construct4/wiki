@@ -17,6 +17,7 @@
 3. http://localhost:4000
 
 `jekyll clean` 清理_site
-所以更改在master里,否则影响网站的自动生成
+
+所有更改在master里,否则影响网站的自动生成
 
 [^1]: Requires Bundler. Install with `gem install bundler`.
