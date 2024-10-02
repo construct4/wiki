@@ -8,7 +8,7 @@ sitemap: false
 permalink: /docs/
 ---
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+在这里，你应该能够找到用Hydejack写博客时完成最常见任务所需的一切。
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
 Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/hydecorp/hydejack/issues) on GitHub.
 
