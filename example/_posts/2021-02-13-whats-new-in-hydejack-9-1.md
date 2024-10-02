@@ -14,7 +14,7 @@ invert_sidebar: true
 
 # What's New in Hydejack 9.1?
 
-What's New in Hydejack 9.1?
+Hydejack 9.1 有什么新功能?
 
 * toc
 {:toc}
